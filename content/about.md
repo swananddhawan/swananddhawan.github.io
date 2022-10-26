@@ -103,4 +103,4 @@ That’s all! Happy reading!!
 [^fn:2]: _Section 51A_, point _(h)_ in the Indian constitution: <https://legislative.gov.in/sites/default/files/COI_English.pdf>
 [^fn:3]: Maajid Nawaz on The Big Questions: "Does freedom of speech give the right to offend?": <https://www.youtube.com/watch?v=09kYH9oynaY&t=324s>
 [^fn:4]: Personal attack logical fallacy: <https://en.wikipedia.org/wiki/Ad_hominem>
-[^fn:5]: : Logical fallacies <https://aphilosopher.files.wordpress.com/2010/09/42-fallacies.pdf>
+[^fn:5]: Logical fallacies <https://aphilosopher.files.wordpress.com/2010/09/42-fallacies.pdf>
