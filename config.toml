@@ -24,6 +24,9 @@ enableGitInfo = true
     url = "/about/"
     weight = 10
 
+googleAnalytics = 'G-V6DKM4GVTK'
+disqusShortname = 'https-swananddhawan-github-io'
+
 [privacy]
   [privacy.disqus]
     disable = false
