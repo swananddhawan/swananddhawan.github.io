@@ -74,17 +74,18 @@ statement, which was, "an international team of scientists did some studies to f
 Refer to the screenshots from the video and from the article to understand what I am trying to
 say.
 
--   [Screenshot from the video](</ox-hugo/Screenshot 2022-10-02 at 5.17.50 PM.png>)
--   [Screenshot from the article](</ox-hugo/Screenshot 2022-10-02 at 6.14.45 PM.png>)
+-   Screenshot from the video
 
-| Screenshot from the video                             | Screenshot from the article                           |
-|-------------------------------------------------------|-------------------------------------------------------|
-| ![](/ox-hugo/Screenshot 2022-10-02 at 5.17.50 PM.png) | ![](/ox-hugo/Screenshot 2022-10-02 at 6.14.45 PM.png) |
+{{< figure src="/ox-hugo/Screenshot 2022-10-02 at 5.17.50 PM.png" >}}
+
+-   Screenshot from the article[^fn:4]
+
+{{< figure src="/ox-hugo/Screenshot 2022-10-02 at 6.14.45 PM.png" >}}
 
 If the video makers wanted to give some scientific view to such questions, they would have
 explicitly shown the findings or other research details and not the other way round.
 
-However, you would not do it if you did not have a scientific temperament![^fn:4]
+However, you would not do it if you did not have a scientific temperament![^fn:5]
 
 Also, can you think about the differences between the below two statements?
 
@@ -113,11 +114,11 @@ trust, which can be easily taken advantage of.
 Such behaviour, gradually, over the years, completely removes scientific temperament from our
 minds. We stop questioning and blindly follow anything and anyone!
 
-Such acts also lead to an authoritarian[^fn:5] culture, which is harmful to progressive humanism.
+Such acts also lead to an authoritarian[^fn:6] culture, which is harmful to progressive humanism.
 
 For the betterment of human society, all beliefs/ideologies/views must be open to all types of
 questions and must be corrected or rejected from time to time based on the evidence and the need
-for it in the modern world based on humanism[^fn:6].
+for it in the modern world based on humanism[^fn:7].
 
 
 ### Claim 2: _Science has already proven benefits of intermittent fasting_ {#claim-2-science-has-already-proven-benefits-of-intermittent-fasting}
@@ -127,7 +128,7 @@ Can you pause for a moment and think about the problems with the above claim?
 **Problem 1:**
 This is, again, an example of _confirmation bias!_.
 
-I believe that everyone **must** be aware of this logical fallacy[^fn:7].
+I believe that everyone **must** be aware of this logical fallacy[^fn:8].
 The internet is a double-sided sword. If used _properly_, we may reap benefits from it, or it can be
 detrimental to us.
 
@@ -142,7 +143,7 @@ Before weighing intermittent fasting side effects, it's essential to know that t
 forms of intermittent fasting, and the evidence of their long-term effectiveness and safety is
 not **yet** known. Intermittent fasting is not recommended for pregnant or breastfeeding women,
 growing children and teenagers, the elderly, or individuals with or vulnerable to
-eating disorders.[^fn:8]
+eating disorders.[^fn:9]
 
 Remember, a person trying to sell you something or convince you to do something, may not wish
 to tell you the trade-offs for it, as the outcome of you knowing the trade-offs may not be in the
@@ -169,11 +170,11 @@ A claim or a theory gets invalid if we get a single piece of evidence against it
 Because there is no proof based on scientific studies for it, as the benefits or side effects of
 it varies from person to person; most studies state that there is insufficient evidence to
 recommend intermittent fasting, and encourages speaking to one's healthcare provider about the
-benefits and risks before making any significant changes to one's eating pattern.[^fn:9]
+benefits and risks before making any significant changes to one's eating pattern.[^fn:10]
 
 Making a generalized statement or claim based on small or limited data and saying
 "science has proved it" or "it is scientifically proven" or "it is scientific" makes such
-statements or claims **anti-scientific**[^fn:10] and **pseudoscientific**![^fn:11]
+statements or claims **anti-scientific**[^fn:11] and **pseudoscientific**![^fn:12]
 
 You can find general patterns to observe such pseudoscientific statements on Wikipedia.
 I will highly recommend you to go through it as the benefits of it will help you throughout your
@@ -204,7 +205,7 @@ I would like to recall one of Carl Sagan's quote:
 Various religions like Buddhism, Christianity, Islam, Jainism, and Judaism have fasting rituals
 and have been practicing them for centuries. And since some of the mentioned religions
 have not originated from India, we Indians were not the only ones who knew or
-practiced intermittent fasting.[^fn:12]
+practiced intermittent fasting.[^fn:13]
 
 Had the video creators done a simple Google search or just read the first few paragraphs of the
 Wikipedia article on intermittent fasting, they would not have made such claims!
@@ -228,7 +229,7 @@ If the earth's tilt changes only during nine days, then yes, the above claim mak
 valid.
 
 Also, the seasons are not the way before due to climate changes caused by global warming. For example, it
-was raining **heavily** in Pune in October 2022![^fn:13] So do you think that the above claim still makes
+was raining **heavily** in Pune in October 2022![^fn:14] So do you think that the above claim still makes
 sense in the modern times?
 
 
@@ -244,7 +245,7 @@ sense in the modern times?
 8.  What are other methods of connecting to our "inner energies &amp; vibrations"?
 
 The use of scientific words in such statements makes it pseudoscientific and anti-scientific! Also,
-this is an unfalsifiable[^fn:14] statement. There are no scientifically accepted definitions of
+this is an unfalsifiable[^fn:15] statement. There are no scientifically accepted definitions of
 "inner energies" and "inner vibrations". Without such definitions we cannot empirically test and
 validate the connection between dance and the above pseudoscientific words.
 Making use of unfalsifiable statements makes them useless!
@@ -298,7 +299,7 @@ the beautiful curiosity in the child and hence the scientific temperament too!
 
 1.  Why do we celebrate Navratri only for nine days?
 2.  Why do we celebrate the same festival differently in different parts of our country?
-    During Navratri, why do some people follow rituals of animal sacrifices while others don't?[^fn:15]
+    During Navratri, why do some people follow rituals of animal sacrifices while others don't?[^fn:16]
 3.  Why don't we have the same festivals in the whole world?
 4.  There are different types of fasting. Which kind of fasting should be done during Navratri?
     Should everyone follow fasting?
@@ -353,19 +354,29 @@ about!
 [^fn:1]: Abhi and Niyu's video on Navratri and the science behind it: <https://www.youtube.com/watch?v=QteiqA5h2Lk>
 [^fn:2]: See /posts/common-terminologies-used/#confirmation-bias
 [^fn:3]: See /posts/common-terminologies-used/#scientific-method
-[^fn:4]: See /posts/common-terminologies-used/#scientific-temper
-[^fn:5]: See /posts/common-terminologies-used/#authoritarianism
-[^fn:6]: See /posts/common-terminologies-used/#humanism
-[^fn:7]: See /posts/common-terminologies-used/#logical-fallacy
-[^fn:8]: 4 intermittent fasting side effects to watch out for:
+[^fn:4]: Article referred in the video:
+    <https://www.nytimes.com/2016/06/24/science/mitochondrial-dna-mothers.html>
+    If you have difficulties in viewing the article, disable the JavaScript in the browser temporarily.
+
+    -   To toggle JavaScript in Google Chrome browser: Menu &gt; Settings &gt; Privacy &amp; security &gt; Site Settings &gt; Content &gt; JavaScript. Toggle off JavaScript in Chrome
+    -   To toggle JavaScript in Firefox browser:
+        1.  Type only `about:config` in address bar
+        2.  Click on `Accept the risk and Continue`
+        3.  Search for `javascript.enabled`.
+        4.  Toggle its value
+[^fn:5]: See /posts/common-terminologies-used/#scientific-temper
+[^fn:6]: See /posts/common-terminologies-used/#authoritarianism
+[^fn:7]: See /posts/common-terminologies-used/#humanism
+[^fn:8]: See /posts/common-terminologies-used/#logical-fallacy
+[^fn:9]: 4 intermittent fasting side effects to watch out for:
     <https://www.health.harvard.edu/staying-healthy/4-intermittent-fasting-side-effects-to-watch-out-for>
-[^fn:9]: <https://en.wikipedia.org/wiki/Intermittent_fasting>
-[^fn:10]: Antiscience is a set of attitudes that involve a rejection of science and the scientific
+[^fn:10]: <https://en.wikipedia.org/wiki/Intermittent_fasting>
+[^fn:11]: Antiscience is a set of attitudes that involve a rejection of science and the scientific
     method. People holding antiscientific views do not accept science as an objective method that can
     generate universal knowledge. Antiscience commonly manifests through rejection of scientific beliefs
     such as climate change and evolution.
-[^fn:11]: See /posts/common-terminologies-used/#pseudoscience
-[^fn:12]: <https://en.wikipedia.org/wiki/Intermittent_fasting#Religious_fasting>
-[^fn:13]: Pune rains: <https://indianexpress.com/article/cities/pune/heavy-overnight-rains-lash-pune-leave-two-dead-8216960>
-[^fn:14]: See /posts/common-terminologies-used/#falsifiability
-[^fn:15]: Animal sacrifice in Hinduism: <https://en.wikipedia.org/wiki/Animal_sacrifice_in_Hinduism>
+[^fn:12]: See /posts/common-terminologies-used/#pseudoscience
+[^fn:13]: <https://en.wikipedia.org/wiki/Intermittent_fasting#Religious_fasting>
+[^fn:14]: Pune rains: <https://indianexpress.com/article/cities/pune/heavy-overnight-rains-lash-pune-leave-two-dead-8216960>
+[^fn:15]: See /posts/common-terminologies-used/#falsifiability
+[^fn:16]: Animal sacrifice in Hinduism: <https://en.wikipedia.org/wiki/Animal_sacrifice_in_Hinduism>
