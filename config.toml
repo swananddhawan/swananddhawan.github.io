@@ -4,6 +4,15 @@ title = "Swanand Dhawan | Tinkering thoughts"
 theme = 'paper'
 author = 'Swanand Dhawan'
 
+enableGitInfo = true
+
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
+
+
 [params]
   twitter = 'swananddhawan'
   github = 'swananddhawan'
