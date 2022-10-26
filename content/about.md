@@ -5,12 +5,11 @@ date = 2022-10-22
 draft = false
 +++
 
-**NOTE:** I have copied the contents of this section from my teacher and a friend, Damodar Kulkarni's
-"About" section from his website[^fn:1], as I too intend to write on similar
-topics, and I have found his words to cover the things I want to say in a beautiful way.  I have
-edited the _About text formatting_ section a bit as I do like to use the italics, bold and quotes
-wherever required.  I have also added some sections from the "Fundamental duties" section from the
-Indian constitution.
+**NOTE:** I have copied the contents of this section from Damodar Kulkarni's "About" section from his
+website[^fn:1], as I too intend to write on similar topics, and I have found
+his words to cover the things I want to say in a beautiful way.  I have edited the _About text
+formatting_ section a bit as I do like to use the italics, bold and quotes wherever required.  I
+have also added some sections from the "Fundamental duties" section from the Indian constitution.
 
 ---
 
