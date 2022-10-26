@@ -77,6 +77,10 @@ say.
 -   [Screenshot from the video](</ox-hugo/Screenshot 2022-10-02 at 5.17.50 PM.png>)
 -   [Screenshot from the article](</ox-hugo/Screenshot 2022-10-02 at 6.14.45 PM.png>)
 
+| Screenshot from the video                             | Screenshot from the article                           |
+|-------------------------------------------------------|-------------------------------------------------------|
+| ![](/ox-hugo/Screenshot 2022-10-02 at 5.17.50 PM.png) | ![](/ox-hugo/Screenshot 2022-10-02 at 6.14.45 PM.png) |
+
 If the video makers wanted to give some scientific view to such questions, they would have
 explicitly shown the findings or other research details and not the other way round.
 
