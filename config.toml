@@ -26,18 +26,3 @@ enableGitInfo = true
 
 googleAnalytics = 'G-8FLQSX2479'
 disqusShortname = 'https-swananddhawan-github-io'
-
-[privacy]
-  [privacy.disqus]
-    disable = false
-  [privacy.googleAnalytics]
-    anonymizeIP = false
-    disable = false
-    respectDoNotTrack = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = false
-    simple = false
-  [privacy.youtube]
-    disable = false
-    privacyEnhanced = false
