@@ -1,0 +1,31 @@
+baseURL = 'https://swananddhawan.github.io/'
+languageCode = 'en-us'
+title = "Swanand Dhawan | Tinkering thoughts"
+theme = 'paper'
+author = 'Swanand Dhawan'
+
+[params]
+  twitter = 'swananddhawan'
+  github = 'swananddhawan'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
