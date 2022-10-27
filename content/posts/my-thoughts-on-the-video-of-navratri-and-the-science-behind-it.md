@@ -25,6 +25,7 @@ draft = false
 - [Questions that I already had](#questions-that-i-already-had)
 - [Conclusion](#conclusion)
 - [Inspired by](#inspired-by)
+- [Video/Audio for this blog](#video-audio-for-this-blog)
 
 </div>
 <!--endtoc-->
@@ -351,6 +352,14 @@ about!
 2.  [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)
 3.  [Shakeel Prem](https://www.youtube.com/c/ShakeelPrem)
 4.  [Pranav Radhakrishnan (Science is Dope)](https://www.youtube.com/c/ScienceIsDope)
+
+
+## Video/Audio for this blog {#video-audio-for-this-blog}
+
+For those people who prefer to listening or watching content over, I have made the video of
+reading this blog.
+
+{{<youtube lCHssQZU40A>}}
 
 [^fn:1]: Abhi and Niyu's video on Navratri and the science behind it: <https://www.youtube.com/watch?v=QteiqA5h2Lk>
 [^fn:2]: See [common-terms/confirmation-bias](https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#confirmation-bias)
