@@ -353,8 +353,8 @@ about!
 4.  [Pranav Radhakrishnan (Science is Dope)](https://www.youtube.com/c/ScienceIsDope)
 
 [^fn:1]: Abhi and Niyu's video on Navratri and the science behind it: <https://www.youtube.com/watch?v=QteiqA5h2Lk>
-[^fn:2]: See <https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#confirmation-bias>
-[^fn:3]: See <https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#scientific-method>
+[^fn:2]: See [common-terms/confirmation-bias](https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#confirmation-bias)
+[^fn:3]: See [common-terms/scientific-method](https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#scientific-method)
 [^fn:4]: Article referred in the video:
     <https://www.nytimes.com/2016/06/24/science/mitochondrial-dna-mothers.html>
     If you have difficulties in viewing the article, disable the JavaScript in the browser temporarily.
@@ -365,10 +365,10 @@ about!
         2.  Click on `Accept the risk and Continue`
         3.  Search for `javascript.enabled`.
         4.  Toggle its value
-[^fn:5]: See <https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#scientific-temper>
-[^fn:6]: See <https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#authoritarianism>
-[^fn:7]: See <https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#humanism>
-[^fn:8]: See <https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#logical-fallacy>
+[^fn:5]: See [common-terms/scientific-temper](https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#scientific-temper)
+[^fn:6]: See [common-terms/authoritarianism](https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#authoritarianism)
+[^fn:7]: See [common-terms/humanism](https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#humanism)
+[^fn:8]: See [common-terms/logical-fallacy](https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#logical-fallacy)
 [^fn:9]: 4 intermittent fasting side effects to watch out for:
     <https://www.health.harvard.edu/staying-healthy/4-intermittent-fasting-side-effects-to-watch-out-for>
 [^fn:10]: <https://en.wikipedia.org/wiki/Intermittent_fasting>
@@ -376,8 +376,8 @@ about!
     method. People holding antiscientific views do not accept science as an objective method that can
     generate universal knowledge. Antiscience commonly manifests through rejection of scientific beliefs
     such as climate change and evolution.
-[^fn:12]: See <https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#pseudoscience>
+[^fn:12]: See [common-terms/pseudoscience](https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#pseudoscience)
 [^fn:13]: <https://en.wikipedia.org/wiki/Intermittent_fasting#Religious_fasting>
 [^fn:14]: Pune rains: <https://indianexpress.com/article/cities/pune/heavy-overnight-rains-lash-pune-leave-two-dead-8216960>
-[^fn:15]: See <https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#falsifiability>
+[^fn:15]: See [common-terms/falsifiability](https://swananddhawan.github.io/posts/common-terms-used-in-my-posts/#falsifiability)
 [^fn:16]: Animal sacrifice in Hinduism: <https://en.wikipedia.org/wiki/Animal_sacrifice_in_Hinduism>
