@@ -5,6 +5,8 @@ theme = 'paper'
 author = 'Swanand Dhawan'
 
 enableGitInfo = true
+googleAnalytics = "G-8FLQSX2479"
+disqusShortname = "https-swananddhawan-github-io"
 
 [frontmatter]
   date = ['date', 'publishDate', 'lastmod']
@@ -23,6 +25,3 @@ enableGitInfo = true
     name = "About"
     url = "/about/"
     weight = 10
-
-googleAnalytics = 'G-8FLQSX2479'
-disqusShortname = 'https-swananddhawan-github-io'
