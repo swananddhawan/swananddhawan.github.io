@@ -115,11 +115,11 @@ trust, which can be easily taken advantage of.
 Such behaviour, gradually, over the years, completely removes scientific temperament from our
 minds. We stop questioning and blindly follow anything and anyone!
 
-Such acts also lead to an authoritarian[^fn:6] culture, which is harmful to progressive humanism.
+Such acts also lead to an authoritarian[^fn:6] culture, which is harmful to progressive humanism[^fn:7].
 
 For the betterment of human society, all beliefs/ideologies/views must be open to all types of
 questions and must be corrected or rejected from time to time based on the evidence and the need
-for it in the modern world based on humanism[^fn:7].
+for it in the modern world based on humanism.
 
 
 ### Claim 2: _Science has already proven benefits of intermittent fasting_ {#claim-2-science-has-already-proven-benefits-of-intermittent-fasting}
