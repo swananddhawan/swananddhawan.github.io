@@ -2,7 +2,6 @@
 title = """
   My thoughts on the video of "Navratri, and the science behind it"
   """
-author = ["Swanand Dhawan"]
 date = 2022-10-26
 tags = ["pseudoscience", "navratri", "rituals"]
 draft = false

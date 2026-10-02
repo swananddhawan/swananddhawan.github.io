@@ -1,6 +1,5 @@
 +++
 title = "Common terms used in my posts"
-author = ["Swanand Dhawan"]
 date = 2022-10-25
 tags = ["pseudoscience", "logical-fallacy", "confirmation-bias", "humanism", "scientifc-method", "scientific-temper", "authoritarianism", "falsifiability"]
 draft = false
