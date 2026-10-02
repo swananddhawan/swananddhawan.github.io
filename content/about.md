@@ -1,6 +1,5 @@
 +++
 title = "About"
-author = ["Swanand Dhawan"]
 date = 2022-10-22
 draft = false
 +++

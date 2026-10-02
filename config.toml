@@ -1,12 +1,23 @@
 baseURL = 'https://swanand.me'
-languageCode = 'en-us'
+locale = 'en-us'
 title = "Swanand Dhawan | Tinkering thoughts"
 theme = 'paper'
-author = 'Swanand Dhawan'
 
 enableGitInfo = true
-googleAnalytics = "G-8FLQSX2479"
-disqusShortname = "https-swananddhawan-github-io"
+
+# Posts exported with ox-hugo contain raw HTML (table-of-contents wrappers).
+# Hugo drops it by default; keep that behaviour and silence the warning.
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[module.hugoVersion]
+  extended = true
+  min = '0.158.0'
+
+[services.googleAnalytics]
+  ID = 'G-8FLQSX2479'
+
+[services.disqus]
+  shortname = 'https-swananddhawan-github-io'
 
 [frontmatter]
   date = ['date', 'publishDate', 'lastmod']
@@ -14,8 +25,8 @@ disqusShortname = "https-swananddhawan-github-io"
   lastmod = [':git', 'lastmod', 'date', 'publishDate']
   publishDate = ['publishDate', 'date']
 
-
 [params]
+  author = 'Swanand Dhawan'
   twitter = 'swananddhawan'
   github = 'swananddhawan'
 
